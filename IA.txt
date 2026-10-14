@@ -1,0 +1,1 @@
+- se uso IA para intentar formatear los montos valor a pesos chilenos. no se nota mucho la diferencia
